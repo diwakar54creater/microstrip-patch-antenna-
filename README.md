@@ -1,2 +1,19 @@
-# microstrip-patch-antenna-
-circularly polarised microstrip patch antenna for 5g and iot applications 
+# Circular Microstrip Patch Antenna for 5G and IoT
+
+## Project Description
+Designed and simulated a circular microstrip patch antenna for millimeter-wave 5G applications using HFSS.
+
+## Tools Used
+- HFSS
+- CST
+- MATLAB
+
+## Features
+- High gain
+- Compact size
+- Millimeter-wave frequency support
+
+## Applications
+- 5G
+- IoT
+- Wireless communication
